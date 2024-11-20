@@ -1,0 +1,28 @@
+# Environment variables
+.env
+.env.local
+
+# Build and binary directories
+/bin/
+/build/
+/dist/
+
+# Compiled and temporary files
+*.exe
+*.out
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Go specific
+/go.sum
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
